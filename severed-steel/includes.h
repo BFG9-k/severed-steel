@@ -6,7 +6,8 @@
 
 #include "core/utils/logger/logger.h"
 #include "core/thirdparty/minhook/minhook.h"
+#include "core/thirdparty/MonkeGUI.h"
 #include "core/bootstrap_cheat.h"
 
 #include "game/hooked/hooked.h"
-#include "game/sdk/SDK/Engine_classes.hpp"
+#include "game/sdk/SDK.hpp"

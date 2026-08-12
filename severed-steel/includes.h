@@ -5,6 +5,7 @@
 #include <thread>
 
 #include "core/thirdparty/minhook/minhook.h"
-
 #include "core/bootstrap_cheat.h"
 #include "core/utils/logger/logger.h"
+
+#include "game/sdk/SDK/Engine_classes.hpp"

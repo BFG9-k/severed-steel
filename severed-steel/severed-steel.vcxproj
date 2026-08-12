@@ -173,6 +173,7 @@
     <ClInclude Include="core\thirdparty\minhook\minhook.h" />
     <ClInclude Include="core\thirdparty\minhook\trampoline.h" />
     <ClInclude Include="core\utils\logger\logger.h" />
+    <ClInclude Include="game\hooked\hooked.h" />
     <ClInclude Include="game\sdk\PropertyFixup.hpp" />
     <ClInclude Include="game\sdk\SDK.hpp" />
     <ClInclude Include="game\sdk\SDK\ABP_870_classes.hpp" />
@@ -1802,6 +1803,7 @@
     <ClCompile Include="core\thirdparty\minhook\trampoline.c" />
     <ClCompile Include="core\utils\logger\logger.cpp" />
     <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="game\hooked\hooked.cpp" />
     <ClCompile Include="game\sdk\SDK\ActorLayerUtilities_functions.cpp" />
     <ClCompile Include="game\sdk\SDK\ALSV4_CPP_functions.cpp" />
     <ClCompile Include="game\sdk\SDK\Basic.cpp" />

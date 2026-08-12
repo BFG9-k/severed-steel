@@ -6,6 +6,7 @@ C:\Users\Admin\source\repos\severed-steel\severed-steel\core\thirdparty\minhook\
 C:\Users\Admin\source\repos\severed-steel\severed-steel\core\thirdparty\minhook\trampoline.c;C:\Users\Admin\source\repos\severed-steel\intermediates\trampoline.obj
 C:\Users\Admin\source\repos\severed-steel\severed-steel\core\utils\logger\logger.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\logger.obj
 C:\Users\Admin\source\repos\severed-steel\severed-steel\dllmain.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\dllmain.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\game\hooked\hooked.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\hooked.obj
 C:\Users\Admin\source\repos\severed-steel\severed-steel\game\sdk\SDK\ActorLayerUtilities_functions.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\ActorLayerUtilities_functions.obj
 C:\Users\Admin\source\repos\severed-steel\severed-steel\game\sdk\SDK\ALSV4_CPP_functions.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\ALSV4_CPP_functions.obj
 C:\Users\Admin\source\repos\severed-steel\severed-steel\game\sdk\SDK\Basic.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\Basic.obj

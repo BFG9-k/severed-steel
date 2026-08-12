@@ -1630,6 +1630,7 @@
     <ClInclude Include="game\sdk\UnrealContainers.hpp" />
     <ClInclude Include="game\sdk\UtfN.hpp" />
     <ClInclude Include="game\sdk\SDK\portal_clone_static_mesh_classes.hpp" />
+    <ClInclude Include="game\hooked\hooked.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
@@ -1678,6 +1679,7 @@
     <ClCompile Include="game\sdk\SDK\DatasmithContent_functions.cpp" />
     <ClCompile Include="game\sdk\SDK\CustomMeshComponent_functions.cpp" />
     <ClCompile Include="game\sdk\SDK\ActorLayerUtilities_functions.cpp" />
+    <ClCompile Include="game\hooked\hooked.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="game\sdk\Assertions.inl" />

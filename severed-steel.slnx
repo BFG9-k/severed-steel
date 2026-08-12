@@ -2,5 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="severed-steel/severed-steel.vcxproj" />
+  <Project Path="severed-steel/severed-steel.vcxproj" Id="a8259e8b-d062-498b-949e-b7164282c0db" />
 </Solution>

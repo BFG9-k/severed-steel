@@ -4,5 +4,7 @@
 #include <memory>
 #include <thread>
 
+#include "core/thirdparty/minhook/minhook.h"
+
 #include "core/bootstrap_cheat.h"
 #include "core/utils/logger/logger.h"

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\severed-steel\severed-steel\core\bootstrap_cheat.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\bootstrap_cheat.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\core\thirdparty\minhook\buffer.c;C:\Users\Admin\source\repos\severed-steel\intermediates\buffer.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\core\thirdparty\minhook\hde\hde32.c;C:\Users\Admin\source\repos\severed-steel\intermediates\hde32.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\core\thirdparty\minhook\hde\hde64.c;C:\Users\Admin\source\repos\severed-steel\intermediates\hde64.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\core\thirdparty\minhook\hook.c;C:\Users\Admin\source\repos\severed-steel\intermediates\hook.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\core\thirdparty\minhook\trampoline.c;C:\Users\Admin\source\repos\severed-steel\intermediates\trampoline.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\core\utils\logger\logger.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\logger.obj
+C:\Users\Admin\source\repos\severed-steel\severed-steel\dllmain.cpp;C:\Users\Admin\source\repos\severed-steel\intermediates\dllmain.obj

@@ -175,6 +175,11 @@
     <ClInclude Include="core\thirdparty\MonkeGUI.h" />
     <ClInclude Include="core\thirdparty\MonkeInput.h" />
     <ClInclude Include="core\utils\logger\logger.h" />
+    <ClInclude Include="game\config.h" />
+    <ClInclude Include="game\features\features.h" />
+    <ClInclude Include="game\features\gui\gui.h" />
+    <ClInclude Include="game\features\misc\misc.h" />
+    <ClInclude Include="game\features\npc\npc.h" />
     <ClInclude Include="game\hooked\hooked.h" />
     <ClInclude Include="game\sdk\PropertyFixup.hpp" />
     <ClInclude Include="game\sdk\SDK.hpp" />
@@ -1805,6 +1810,9 @@
     <ClCompile Include="core\thirdparty\minhook\trampoline.c" />
     <ClCompile Include="core\utils\logger\logger.cpp" />
     <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="game\features\gui\gui.cpp" />
+    <ClCompile Include="game\features\misc\misc.cpp" />
+    <ClCompile Include="game\features\npc\npc.cpp" />
     <ClCompile Include="game\hooked\hooked.cpp" />
     <ClCompile Include="game\sdk\SDK\ActorLayerUtilities_functions.cpp" />
     <ClCompile Include="game\sdk\SDK\ALSV4_CPP_functions.cpp" />

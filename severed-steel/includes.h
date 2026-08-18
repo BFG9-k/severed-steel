@@ -11,3 +11,5 @@
 
 #include "game/hooked/hooked.h"
 #include "game/sdk/SDK.hpp"
+
+#include "game/features/features.h"

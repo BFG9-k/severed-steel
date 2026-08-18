@@ -46,7 +46,7 @@ void features::c_gui::render( SDK::UCanvas* canvas )
 			}
 			else if ( tab == 2 )
 			{
-				MonkeGUI::Checkbox( "Infine Slowmo", &config::misc::infinite_slowmo );
+				MonkeGUI::Checkbox( "Infinite Slowmo", &config::misc::infinite_slowmo );
 				MonkeGUI::Checkbox( "Score Hack", &config::misc::score_hack );
 				MonkeGUI::SliderFloat( "Score Multiplier", &config::misc::score_hack_multiplier, 1.0f, 1000.0f );
 			}
